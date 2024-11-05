@@ -1,0 +1,247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rpere\\OneDrive\\Desktop\\Tarea_Curso\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B303F01A-1138-4C8D-9444-6EF916EB5724}|WindowsForm\\WindowsForm.csproj|c:\\users\\rpere\\onedrive\\desktop\\tarea_curso\\windowsform\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B303F01A-1138-4C8D-9444-6EF916EB5724}|WindowsForm\\WindowsForm.csproj|solutionrelative:windowsform\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B303F01A-1138-4C8D-9444-6EF916EB5724}|WindowsForm\\WindowsForm.csproj|C:\\Users\\rpere\\OneDrive\\Desktop\\Tarea_Curso\\windowsform\\registroform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B303F01A-1138-4C8D-9444-6EF916EB5724}|WindowsForm\\WindowsForm.csproj|solutionrelative:windowsform\\registroform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B303F01A-1138-4C8D-9444-6EF916EB5724}|WindowsForm\\WindowsForm.csproj|C:\\Users\\rpere\\OneDrive\\Desktop\\Tarea_Curso\\windowsform\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B303F01A-1138-4C8D-9444-6EF916EB5724}|WindowsForm\\WindowsForm.csproj|solutionrelative:windowsform\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B303F01A-1138-4C8D-9444-6EF916EB5724}|WindowsForm\\WindowsForm.csproj|c:\\users\\rpere\\onedrive\\desktop\\tarea_curso\\windowsform\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B303F01A-1138-4C8D-9444-6EF916EB5724}|WindowsForm\\WindowsForm.csproj|solutionrelative:windowsform\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B303F01A-1138-4C8D-9444-6EF916EB5724}|WindowsForm\\WindowsForm.csproj|c:\\users\\rpere\\onedrive\\desktop\\tarea_curso\\windowsform\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B303F01A-1138-4C8D-9444-6EF916EB5724}|WindowsForm\\WindowsForm.csproj|solutionrelative:windowsform\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B303F01A-1138-4C8D-9444-6EF916EB5724}|WindowsForm\\WindowsForm.csproj|c:\\users\\rpere\\onedrive\\desktop\\tarea_curso\\windowsform\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B303F01A-1138-4C8D-9444-6EF916EB5724}|WindowsForm\\WindowsForm.csproj|solutionrelative:windowsform\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B303F01A-1138-4C8D-9444-6EF916EB5724}|WindowsForm\\WindowsForm.csproj|c:\\users\\rpere\\onedrive\\desktop\\tarea_curso\\windowsform\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B303F01A-1138-4C8D-9444-6EF916EB5724}|WindowsForm\\WindowsForm.csproj|solutionrelative:windowsform\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B303F01A-1138-4C8D-9444-6EF916EB5724}|WindowsForm\\WindowsForm.csproj|c:\\users\\rpere\\onedrive\\desktop\\tarea_curso\\windowsform\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B303F01A-1138-4C8D-9444-6EF916EB5724}|WindowsForm\\WindowsForm.csproj|solutionrelative:windowsform\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B303F01A-1138-4C8D-9444-6EF916EB5724}|WindowsForm\\WindowsForm.csproj|c:\\users\\rpere\\onedrive\\desktop\\tarea_curso\\windowsform\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B303F01A-1138-4C8D-9444-6EF916EB5724}|WindowsForm\\WindowsForm.csproj|solutionrelative:windowsform\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB05D64B-FA43-48C3-BCA1-26742643162C}|SharedModels\\SharedModels.csproj|c:\\users\\rpere\\onedrive\\desktop\\tarea_curso\\sharedmodels\\empleadodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB05D64B-FA43-48C3-BCA1-26742643162C}|SharedModels\\SharedModels.csproj|solutionrelative:sharedmodels\\empleadodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B303F01A-1138-4C8D-9444-6EF916EB5724}|WindowsForm\\WindowsForm.csproj|c:\\users\\rpere\\onedrive\\desktop\\tarea_curso\\windowsform\\ingresosydeduccionesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B303F01A-1138-4C8D-9444-6EF916EB5724}|WindowsForm\\WindowsForm.csproj|solutionrelative:windowsform\\ingresosydeduccionesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B303F01A-1138-4C8D-9444-6EF916EB5724}|WindowsForm\\WindowsForm.csproj|C:\\Users\\rpere\\OneDrive\\Desktop\\Tarea_Curso\\windowsform\\ingresosydeduccionesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B303F01A-1138-4C8D-9444-6EF916EB5724}|WindowsForm\\WindowsForm.csproj|solutionrelative:windowsform\\ingresosydeduccionesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B303F01A-1138-4C8D-9444-6EF916EB5724}|WindowsForm\\WindowsForm.csproj|c:\\users\\rpere\\onedrive\\desktop\\tarea_curso\\windowsform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B303F01A-1138-4C8D-9444-6EF916EB5724}|WindowsForm\\WindowsForm.csproj|solutionrelative:windowsform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D228E6E-8552-4A7B-80F2-8315B97AEF0D}|Gestor_Api\\Gestor_Api.csproj|c:\\users\\rpere\\onedrive\\desktop\\tarea_curso\\gestor_api\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D228E6E-8552-4A7B-80F2-8315B97AEF0D}|Gestor_Api\\Gestor_Api.csproj|solutionrelative:gestor_api\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rpere\\OneDrive\\Desktop\\Tarea_Curso\\WindowsForm\\UserRepository.cs",
+              "RelativeDocumentMoniker": "WindowsForm\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\rpere\\OneDrive\\Desktop\\Tarea_Curso\\WindowsForm\\UserRepository.cs",
+              "RelativeToolTip": "WindowsForm\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T02:52:44.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\rpere\\OneDrive\\Desktop\\Tarea_Curso\\WindowsForm\\Repository.cs",
+              "RelativeDocumentMoniker": "WindowsForm\\Repository.cs",
+              "ToolTip": "C:\\Users\\rpere\\OneDrive\\Desktop\\Tarea_Curso\\WindowsForm\\Repository.cs",
+              "RelativeToolTip": "WindowsForm\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T02:52:41.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rpere\\OneDrive\\Desktop\\Tarea_Curso\\WindowsForm\\IRepository.cs",
+              "RelativeDocumentMoniker": "WindowsForm\\IRepository.cs",
+              "ToolTip": "C:\\Users\\rpere\\OneDrive\\Desktop\\Tarea_Curso\\WindowsForm\\IRepository.cs",
+              "RelativeToolTip": "WindowsForm\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T02:52:39.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rpere\\OneDrive\\Desktop\\Tarea_Curso\\WindowsForm\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "WindowsForm\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\rpere\\OneDrive\\Desktop\\Tarea_Curso\\WindowsForm\\IUserRepository.cs",
+              "RelativeToolTip": "WindowsForm\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T02:52:38.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\rpere\\OneDrive\\Desktop\\Tarea_Curso\\WindowsForm\\ApiClient.cs",
+              "RelativeDocumentMoniker": "WindowsForm\\ApiClient.cs",
+              "ToolTip": "C:\\Users\\rpere\\OneDrive\\Desktop\\Tarea_Curso\\WindowsForm\\ApiClient.cs",
+              "RelativeToolTip": "WindowsForm\\ApiClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T02:52:35.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IngresosyDeduccionesForm.cs",
+              "DocumentMoniker": "C:\\Users\\rpere\\OneDrive\\Desktop\\Tarea_Curso\\WindowsForm\\IngresosyDeduccionesForm.cs",
+              "RelativeDocumentMoniker": "WindowsForm\\IngresosyDeduccionesForm.cs",
+              "ToolTip": "C:\\Users\\rpere\\OneDrive\\Desktop\\Tarea_Curso\\WindowsForm\\IngresosyDeduccionesForm.cs",
+              "RelativeToolTip": "WindowsForm\\IngresosyDeduccionesForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T03:35:33.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmpleadoDatos.cs",
+              "DocumentMoniker": "C:\\Users\\rpere\\OneDrive\\Desktop\\Tarea_Curso\\SharedModels\\EmpleadoDatos.cs",
+              "RelativeDocumentMoniker": "SharedModels\\EmpleadoDatos.cs",
+              "ToolTip": "C:\\Users\\rpere\\OneDrive\\Desktop\\Tarea_Curso\\SharedModels\\EmpleadoDatos.cs",
+              "RelativeToolTip": "SharedModels\\EmpleadoDatos.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA5wBEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T21:02:39.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistroForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\rpere\\OneDrive\\Desktop\\Tarea_Curso\\WindowsForm\\RegistroForm.cs",
+              "RelativeDocumentMoniker": "WindowsForm\\RegistroForm.cs",
+              "ToolTip": "C:\\Users\\rpere\\OneDrive\\Desktop\\Tarea_Curso\\WindowsForm\\RegistroForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsForm\\RegistroForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:07:33.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuForm.cs",
+              "DocumentMoniker": "C:\\Users\\rpere\\OneDrive\\Desktop\\Tarea_Curso\\WindowsForm\\MenuForm.cs",
+              "RelativeDocumentMoniker": "WindowsForm\\MenuForm.cs",
+              "ToolTip": "C:\\Users\\rpere\\OneDrive\\Desktop\\Tarea_Curso\\WindowsForm\\MenuForm.cs",
+              "RelativeToolTip": "WindowsForm\\MenuForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:07:29.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\rpere\\OneDrive\\Desktop\\Tarea_Curso\\WindowsForm\\MenuForm.cs",
+              "RelativeDocumentMoniker": "WindowsForm\\MenuForm.cs",
+              "ToolTip": "C:\\Users\\rpere\\OneDrive\\Desktop\\Tarea_Curso\\WindowsForm\\MenuForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsForm\\MenuForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:07:23.822Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\rpere\\OneDrive\\Desktop\\Tarea_Curso\\WindowsForm\\LoginForm.cs",
+              "RelativeDocumentMoniker": "WindowsForm\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\rpere\\OneDrive\\Desktop\\Tarea_Curso\\WindowsForm\\LoginForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsForm\\LoginForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:07:19.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rpere\\OneDrive\\Desktop\\Tarea_Curso\\WindowsForm\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsForm\\Program.cs",
+              "ToolTip": "C:\\Users\\rpere\\OneDrive\\Desktop\\Tarea_Curso\\WindowsForm\\Program.cs",
+              "RelativeToolTip": "WindowsForm\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:06:27.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IngresosyDeduccionesForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\rpere\\OneDrive\\Desktop\\Tarea_Curso\\WindowsForm\\IngresosyDeduccionesForm.cs",
+              "RelativeDocumentMoniker": "WindowsForm\\IngresosyDeduccionesForm.cs",
+              "ToolTip": "C:\\Users\\rpere\\OneDrive\\Desktop\\Tarea_Curso\\WindowsForm\\IngresosyDeduccionesForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsForm\\IngresosyDeduccionesForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:02:55.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MappingConfig.cs",
+              "DocumentMoniker": "C:\\Users\\rpere\\OneDrive\\Desktop\\Tarea_Curso\\Gestor_Api\\MappingConfig.cs",
+              "RelativeDocumentMoniker": "Gestor_Api\\MappingConfig.cs",
+              "ToolTip": "C:\\Users\\rpere\\OneDrive\\Desktop\\Tarea_Curso\\Gestor_Api\\MappingConfig.cs",
+              "RelativeToolTip": "Gestor_Api\\MappingConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:43:38.758Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
